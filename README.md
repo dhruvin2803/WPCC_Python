@@ -1,5 +1,5 @@
 # WPCC Python Course
-This course consists the following topics:- 
+This course consists the following topics:- <br/>
 • Python Basic Syntax <br/>
 • For/While Loops<br/>
 • Lists<br/>
